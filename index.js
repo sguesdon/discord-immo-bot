@@ -1,8 +1,7 @@
 const
     Discord = require('discord.js'),
     CentreImmo = require('./src/centre-immo.js'),
-    Lbc = require('./src/lbc.js'),
-    Bot = require('./src/bot.js');
+    Lbc = require('./src/lbc.js');
 
 const
     bot = new Discord.Client(),
